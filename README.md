@@ -1,36 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Stefan
 
-<!--
-**yoshovski/yoshovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an adventurous coder passionate about crafting and exploring
 
-Here are some ideas to get you started:
+## 🌟 Featured Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a look at my portfolio:
+http://yoshovski.github.io/
 
-👋 Hey there, I'm Stefan, an adventurous coder with a passion for creating impactful software solutions!
+<a href="https://yoshovski.github.io/">
+<img src="https://github.com/user-attachments/assets/c613571f-d3e2-4e5d-937a-b6ffab902fba" alt="Preview Featured Work" height="220" style="width: 550;">
+</a>
 
-💻 With a love for Java, JavaScript, and databases, I love crafting elegant code that brings ideas to life.
+## 💻 About Me
 
-🌍 Combining my love for coding and curiosity about the world, I embark on exciting journeys of exploration and discovery.
-
-📷 When not immersed in code, you'll find me behind the lens, capturing breathtaking moments in photography and videography, or exploring new destinations.
-
-⚡️ Let's collaborate on cutting-edge projects, where creativity meets innovation. Connect with me and let's create something extraordinary!
+If I’m not debugging a project, I’m probably editing drone footage from my latest trip. And when I’m not doing sport, I’m likely building the next piece of software to run on my self-built home server. It’s a never-ending loop: code, travel, edit, repeat. Fueled by a love for learning and exploring everything, digital or real.
 
 <br>
 
 <p>
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoshovski&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="yoshovski" />
--->
+  -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshovski&theme=dark&hide_progress=true&hide_border=true&count_private=true&langs_count=10&hide=QMake" alt="yoshovski" />
 </p>
 
