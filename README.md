@@ -20,10 +20,9 @@ If I’m not debugging a project, I’m probably editing drone footage from my l
 <p>
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoshovski&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="yoshovski" />
-  -->
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshovski&theme=dark&hide_progress=true&hide_border=true&count_private=true&langs_count=10&hide=QMake" alt="yoshovski" />
 </p>
+  -->
 
 ## Get in touch :speech_balloon:
 [![My LinkedIn Page](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-yoshovski/)
