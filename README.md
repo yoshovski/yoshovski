@@ -19,7 +19,7 @@ If I’m not debugging a project, I’m probably editing drone footage from my l
 
 <!-- Stats from a self-hosted github-readme-stats instance (Vercel) so private repos are counted. -->
 <p>
-  <img height="180em" src="https://github-readme-stats-delta-five-56.vercel.app/api?username=yoshovski&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="yoshovski" />
+  <img height="180em" src="https://github-readme-stats-delta-five-56.vercel.app/api?username=yoshovski&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&hide_rank=true" alt="yoshovski" />
   <img height="180em" src="https://github-readme-stats-delta-five-56.vercel.app/api/top-langs/?username=yoshovski&theme=dark&hide_progress=true&hide_border=true&count_private=true&langs_count=10&hide=QMake" alt="yoshovski" />
 </p>
 
